@@ -33,12 +33,12 @@ Student
 - 🖥 &nbsp;
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
-<a href="https://github.com/hogesonline"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&theme=buefy&layout=compact" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&amp;theme=buefy&amp;layout=compact" style="height: 200px;"></a><a href="https://github.com/hogesonline"><img src="https://github-readme-stats.vercel.app/api?username=hogesonline&theme=buefy&show_icons=true" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=hogesonline&amp;theme=buefy&amp;show_icons=true" style="height: 200px;"></a>
+<a href="https://github.com/Hicks404"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicks404&theme=buefy&layout=compact" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicks404&amp;theme=buefy&amp;layout=compact" style="height: 200px;"></a><a href="https://github.com/Hicks404"><img src="https://github-readme-stats.vercel.app/api?username=Hicks404&theme=buefy&show_icons=true" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Hicks404&amp;theme=buefy&amp;show_icons=true" style="height: 200px;"></a>
 
   
 
 ### 🏆 Trophies! 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hogesonline&theme=onedark)](https://github.com/hogesonline/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hicks404&theme=onedark)](https://github.com/Hicks404/github-profile-trophy)
 
-⭐️ From [hogesonline](https://github.com/hogesonline)
+⭐️ From [Hicks404](https://github.com/Hicks404)
