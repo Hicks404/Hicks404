@@ -4,7 +4,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJESA1RgrIdxx_VZy2uyLyg?style=social)](https://www.youtube.com/@FOBG)
 [![GitHub followers](https://img.shields.io/github/followers/Hicks404?style=social)](https://github.com/Hicks404)
 
-Yr 12 HSC Student
+Guy
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Can program
